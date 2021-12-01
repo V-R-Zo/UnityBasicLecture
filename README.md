@@ -38,4 +38,5 @@ Unity 스터디
 공부참고자료
 --
 케이디 유니티 입문 강좌 : <https://www.youtube.com/watch?v=Z2yrLkGrlZ0&list=PLUZ5gNInsv_PR72-V9bTABaZu2py4DJq8>
+
 케이디 유니티로 배우는 C# 강좌 : <https://www.youtube.com/watch?v=OJM-1Usv68k&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf>
