@@ -16,7 +16,7 @@ Unity 스터디
 
 
 ![KakaoTalk_20211130_153029656](https://user-images.githubusercontent.com/68942045/144185257-2218535c-b2f4-4b46-8c77-97725fd7c9fc.gif)
-- 대화시스템창구현
+- 대화시스템창구현 (dialog.cs파일)
 
 기술블로그
 --
