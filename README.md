@@ -25,6 +25,17 @@ Unity 스터디
 - 이현정 : <https://2giqq.tistory.com/category/%EC%9C%A0%EB%8B%88%ED%8B%B0/%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EA%B8%B0%EC%B4%88>
 - 한다현 : <https://velog.io/@kkily55/series/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8>
 
-참고자료
+
+개발계획
+--
+유니티를 통해 VR GAME 구현. 
+- 1월 
+![캡처2](https://user-images.githubusercontent.com/68942045/144195950-72988a91-12e4-483e-a7e2-d38257867bf5.JPG)
+- 2월
+![캡처3](https://user-images.githubusercontent.com/68942045/144195982-dd82e0eb-8208-4784-8aad-2957f88ffdbd.JPG)
+
+
+공부참고자료
 --
 케이디 유니티 입문 강좌 : <https://www.youtube.com/watch?v=Z2yrLkGrlZ0&list=PLUZ5gNInsv_PR72-V9bTABaZu2py4DJq8>
+케이디 유니티로 배우는 C# 강좌 : <https://www.youtube.com/watch?v=OJM-1Usv68k&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf>
