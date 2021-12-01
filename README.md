@@ -20,9 +20,9 @@ Unity 스터디
 
 기술블로그
 --
-정문정 : <https://make-my-jazz.tistory.com/category/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8>
-이현정 : <https://2giqq.tistory.com/category/%EC%9C%A0%EB%8B%88%ED%8B%B0/%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EA%B8%B0%EC%B4%88>
-한다현 : <https://velog.io/@kkily55/series/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8>
+- 정문정 : <https://make-my-jazz.tistory.com/category/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8>
+- 이현정 : <https://2giqq.tistory.com/category/%EC%9C%A0%EB%8B%88%ED%8B%B0/%EC%9C%A0%EB%8B%88%ED%8B%B0%20%EA%B8%B0%EC%B4%88>
+- 한다현 : <https://velog.io/@kkily55/series/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8>
 
 참고자료
 --
