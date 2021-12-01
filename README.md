@@ -6,7 +6,7 @@
 
 Unity 스터디
 --
-케이디 유니티 기초 강의를 들으며 Unity 사용법을 익힘.
+유니티 기초 강의를 들으며 Unity 사용법을 익힘.
 ![KakaoTalk_20211130_153025359](https://user-images.githubusercontent.com/68942045/144184862-59723404-623c-459d-8532-617bcbf3fab3.gif)
 - 플레이어가 특정영역에 들어왔을 경우 색이 변경될때, 소품을 클릭했을때에 색깔 변경
 
@@ -17,3 +17,8 @@ Unity 스터디
 
 ![KakaoTalk_20211130_153029656](https://user-images.githubusercontent.com/68942045/144185257-2218535c-b2f4-4b46-8c77-97725fd7c9fc.gif)
 - 대화시스템창구현
+
+
+참고자료
+--
+케이디 유니티 입문 강좌 : <https://www.youtube.com/watch?v=Z2yrLkGrlZ0&list=PLUZ5gNInsv_PR72-V9bTABaZu2py4DJq8>
