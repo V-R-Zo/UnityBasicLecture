@@ -29,9 +29,9 @@ Unity 스터디
 개발계획
 --
 유니티를 통해 VR GAME 구현. 
-- 1월 
+# <1월> 
 ![캡처2](https://user-images.githubusercontent.com/68942045/144195950-72988a91-12e4-483e-a7e2-d38257867bf5.JPG)
-- 2월
+# <2월>
 ![캡처3](https://user-images.githubusercontent.com/68942045/144195982-dd82e0eb-8208-4784-8aad-2957f88ffdbd.JPG)
 
 
