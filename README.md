@@ -6,9 +6,9 @@
 
 cs파일설명
 --
-dialog.cs : 대화시스템창구현코드
-TitleMenu.cs : 선택지 선택 화면 구현코드
-Test_chap#.cs : 유니티스터디 관련 코드
+- dialog.cs : 대화시스템창구현코드
+- TitleMenu.cs : 선택지 선택 화면 구현코드
+- Test_chap#.cs : 유니티스터디 관련 코드
 
 
 Unity 스터디
