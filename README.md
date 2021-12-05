@@ -18,6 +18,12 @@ Unity 스터디
 ![KakaoTalk_20211130_153029656](https://user-images.githubusercontent.com/68942045/144185257-2218535c-b2f4-4b46-8c77-97725fd7c9fc.gif)
 - 대화시스템창구현 (dialog.cs파일)
 
+
+![KakaoTalk_20211205_134458982](https://user-images.githubusercontent.com/68942045/144734028-0d0a2d04-565d-472b-a82c-76b03586b593.png)
+- 선택지 선택 화면 구현(start, quit버튼 클릭하면 선택지가 선택됨)
+
+
+
 기술블로그
 --
 각 팀원들의 기술블로그. 유니티 강좌와 c#기본 강의를 듣고 공부한 내용을 적어놓음.
