@@ -20,7 +20,7 @@ Unity 스터디
 
 
 ![KakaoTalk_20211205_134458982](https://user-images.githubusercontent.com/68942045/144734028-0d0a2d04-565d-472b-a82c-76b03586b593.png)
-- 선택지 선택 화면 구현(start, quit버튼 클릭하면 선택지가 선택됨)
+- 선택지 선택 화면 구현(Play버튼을 누르면 게임이 시작되고 quit버튼 클릭하면 게임이 종료된다.) 
 
 
 
